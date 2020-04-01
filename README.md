@@ -1,2 +1,2 @@
-# TicTacToe Game
+# Tic Tac Toe Game
 By Romain Derré
